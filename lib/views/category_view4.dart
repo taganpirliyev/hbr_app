@@ -86,12 +86,12 @@ class _CategoryView4State extends State<CategoryView4> {
           title: Row(
             children: [
               Text(
-                'HABAR',
+                'MOBIL',
                 style:
                 TextStyle(fontWeight: FontWeight.bold, color: Colors.red),
               ),
               Text(
-                'lar',
+                ' HOWPSUZLYGY',
                 style: TextStyle(
                     fontWeight: FontWeight.bold, color: Colors.green),
               ),
